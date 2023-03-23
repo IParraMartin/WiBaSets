@@ -1,5 +1,5 @@
-<h1 align="center"># WiBaSets</h1>
-<h1 align="center"># Basque data for NLP and ML</h1>
+<h1 align="center"> WiBaSets</h1>
+<h2 align="center"> Basque data for NLP and ML</h2>
 
 TXT Data
 -----------
