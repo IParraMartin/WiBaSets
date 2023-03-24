@@ -1,5 +1,8 @@
-<h1 align="center"> WiBaSets</h1>
-<h2 align="center"> Basque data for NLP and ML</h2>
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/IParraMartin/BasqueNews-Dataset)
+![GitHub repo size](https://img.shields.io/github/repo-size/IParraMartin/BasqueNews-Dataset?color=red)
+
+# WiBaSets
+Basque data for NLP and ML purposes
 
 TXT Data
 -----------
