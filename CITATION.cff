@@ -3,6 +3,7 @@ message: "If you use this dataset, please cite it as below."
 authors:
 - family-names: "Parra"
   given-names: "Iñigo"
+  orcid: "https://orcid.org/0009-0009-8686-9666"
 title: "WiBaSets: A Corpus of Basque Text"
 version: 1.0.0
 date-released: 2023-03-15
