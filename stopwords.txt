@@ -30,6 +30,8 @@ berauek
 benetan
 bere
 berori
+horixe
+nahi
 beroriek
 beste
 bezala
@@ -37,7 +39,7 @@ da
 dago
 dek
 dira
-dugu 
+dugu
 ditu
 du
 dute
